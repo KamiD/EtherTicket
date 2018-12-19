@@ -1,2 +1,2 @@
 # EtherTicket
-An Smart Contract of Lottery Platform Based on Ethereum
+A Smart Contract of Lottery Platform Based on Ethereum
